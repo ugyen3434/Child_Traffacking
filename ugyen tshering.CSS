@@ -1,0 +1,40 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 80px;
+    color:black;
+    text-align: center;
+}
+nav  a {
+    display:block;
+    padding: 14px 16px;
+    color: white;
+    float: right;
+    background-color: brown;
+    
+} 
+nav a:hover{
+ background-color:aquamarine;
+}
+nav a, .footerbar a{
+    display: block;
+    padding: 14px 16px;
+    color:blue;
+    text-decoration: none;
+    float: left;
+}
+p{
+    padding: 25px 50px 70px 90px;
+}
+h3 {
+    display: square;
+    height: 20% ;
+    background-color:blueviolet;
+    color: black;
+    font-size: 29px;
+    text-align: center;
+}
+nav{
+    background-color: steelblue;
+    margin: 0;
+    padding: 0px;
+}
